@@ -1,0 +1,3 @@
+Resides in the [[Lodge Kitchen]].
+
+Can give you some kind of fire-type move TM/will teach one to your Pokémon? These allow you to un-freeze doors...
