@@ -399,3 +399,8 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
+#-------------------------------
+[PKMN_PARTNER]
+Name = Ally
+Gender = Male
+BaseMoney = 1

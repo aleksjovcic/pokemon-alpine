@@ -204,6 +204,10 @@ class Battle
         next if side == 0 && i == 0   # The player's message is shown last
         msg += "\n" if msg.length > 0
         sent = sendOuts[side][i]
+        # TODO: Somewhere in here is where I can change the message of ally pokemon!
+        # Need to figure out how it checks to partner trainers, and see if I can check them...
+        # Idea! Maybe just hack it with a switch, and then check that switch to change the message? The switch is whether
+        # the partner is an ally pokemon or not?
         case sent.length
         when 1
           msg += _INTL("{1} sent out {2}!", t.full_name, @battlers[sent[0]].name)
@@ -233,6 +237,7 @@ class Battle
       end
       pbDisplayBrief(msg) if msg.length > 0
       # The actual sending out of Pokémon
+      # TODO: Animations are down here...
       animSendOuts = []
       toSendOut.each do |idxBattler|
         animSendOuts.push([idxBattler, @battlers[idxBattler].pokemon])

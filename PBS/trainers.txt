@@ -122,3 +122,8 @@ LoseText = No! How did The Ziggler lose??
 Pokemon = ZIGZAGOON,10
 Pokemon = ZIGZAGOON,11
 Pokemon = ZIGZAGOON,12
+#-------------------------------
+[PKMN_PARTNER,Poliwhirl]
+LoseText = DEBUG: If you're seeing this, something is wrong, at least for now.
+Pokemon = POLIWHIRL, 10
+
