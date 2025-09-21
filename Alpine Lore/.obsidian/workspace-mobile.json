@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "other-test.md",
+                "file": "Design Concepts/Temporary Partner Trainer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "other-test"
+              "title": "Temporary Partner Trainer"
             }
           }
         ]
@@ -155,5 +155,16 @@
     }
   },
   "active": "7fb73f87a7b4d41d",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Design Concepts/player.md",
+    "Design Concepts/Temporary Partner Trainer.md",
+    "Design Concepts/Temporary Partner Pokemon.md",
+    "Events/Strange Noises.md",
+    "Locations/Kadia Region.md",
+    "Maps/Day/Lodge Basement.md",
+    "NPCs/Dusknoir.md",
+    "NPCs/Chef.md",
+    "NPCs/Chandelure.md",
+    "other-test.md"
+  ]
 }
