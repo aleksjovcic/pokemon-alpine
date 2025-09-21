@@ -116,3 +116,9 @@ Pokemon = CHARIZARD,63
     Item = SITRUSBERRY
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
+#-------------------------------
+[YOUNGSTER,Ziggler]
+LoseText = No! How did The Ziggler lose??
+Pokemon = ZIGZAGOON,10
+Pokemon = ZIGZAGOON,11
+Pokemon = ZIGZAGOON,12
