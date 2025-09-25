@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/The ziggler.md",
+                "file": "Design Concepts/Temporary Partner Trainer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The ziggler"
+              "title": "Temporary Partner Trainer"
             }
           }
         ]
@@ -156,20 +156,15 @@
   },
   "active": "7fb73f87a7b4d41d",
   "lastOpenFiles": [
-    "NPCs/Froslass.md",
-    "NPCs/Dusknoir.md",
-    "NPCs/Chandelure.md",
-    "Locations/Kadia Region.md",
-    "Events/Strange Noises.md",
-    "Events/Sleeping.md",
-    "NPCs/rival.md",
-    "NPCs/Professor Pine (MOM).md",
     "Design Concepts/player.md",
-    "NPCs/Mick.md",
     "Design Concepts/Temporary Partner Trainer.md",
     "Design Concepts/Temporary Partner Pokemon.md",
+    "Events/Strange Noises.md",
+    "Locations/Kadia Region.md",
     "Maps/Day/Lodge Basement.md",
+    "NPCs/Dusknoir.md",
     "NPCs/Chef.md",
+    "NPCs/Chandelure.md",
     "other-test.md"
   ]
 }
