@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Interior Lodge Intro.md",
+                "file": "NPCs/The ziggler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interior Lodge Intro"
+              "title": "The ziggler"
             }
           }
         ],
@@ -228,8 +228,8 @@
   },
   "active": "d4ea710c46d1a267",
   "lastOpenFiles": [
-    "Events/Sleeping.md",
     "Events/Interior Lodge Intro.md",
+    "Events/Sleeping.md",
     "Maps/Day/Lodge Outside Back.md",
     "Maps/Day/Lodge Kitchen.md",
     "Maps/Day/Lodge Floor 2 Main Hall.md",

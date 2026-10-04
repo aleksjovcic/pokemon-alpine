@@ -396,3 +396,7 @@ Name = Tiall Region
 Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
+#-------------------------------
+[048]    # Lodge Exterior
+Name = Alpine Lodge
+ShowArea = true
